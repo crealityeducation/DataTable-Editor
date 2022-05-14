@@ -11,3 +11,5 @@ Currently the fields are all text input fields.
 
 # Future plan
 Dynamically identify the data type and accordingly change the fields on the Model. Update data accodingly in datatable.
+
+# Contributions are welcome :-)
