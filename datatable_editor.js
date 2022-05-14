@@ -1,3 +1,12 @@
+/**
+ *	1.0.0
+ *	Developer: C'Reality Education
+ *	Package Type: Reusable JS 
+ *	Expiration date: undefined
+ */
+
+
+
 // GV to hold the table instance
 let myDTs = {};
 
